@@ -8,7 +8,7 @@ Why are these blockchain-based digital assets called *crypto*currencies? Sure, t
 
 *Symmetric* ciphers are encryption schemes in which the parties involved share a secret that is used to encode and decode messages. Consider the example of a [substitution cipher](https://en.wikipedia.org/wiki/Substitution_cipher), in which characters from a given alphabet are mapped to a new alphabet (often the same symbols in a different order). 
 
-<img src="../extras/images/substitution%20cipher.png" width="300">
+<img src="./extras/images/substitution%20cipher.png" width="300">
 
 Now imagine Alice wants to send a secret message to Bob. She would substitute the plaintext characters with their cipher text counterparts according to the mapping she defined. Let's say an eavesdropper named Eve intercepted the message while in transit&mdash;the message would appear as gibberish to her! Once Bob receives the message, he can decrypt it by reversing the substitutions that Alice made. The important thing to note is that both Alice and Bob would need to know how the letters are mapped in order to encrypt and decrypt messages. The fact that the same secret must be known between Alice and Bob is what characterizes a symmetric cipher.  
 
@@ -20,7 +20,7 @@ In contrast, *asymmetric* ciphers are characterized by the fact that only one en
 
 In such cryptosystems, anyone who intends to receive messages must create a pair of keys&mdash;one of which is public and can be published openly, and another which remains private. The public key can be used by anyone to encrypt messages; however, only the holder of the corresponding private key can decrypt those messages. The discrepancy of information between the two parties is what makes the cryptosystem "asymmetric". The process looks like this:
 
-<img src="../extras/images/public%20key%20crypo.png" width="300">
+<img src="./extras/images/public%20key%20crypo.png" width="300">
 
 In the context of bitcoin, instead of Bob sending "Hello Alice!" as his message, he may send an amount of BTC. He encrypts this message with Alice's public key and sends it. Because Alice kept her private key a secret, only she will be able to decrypt the message and spend the bitcoin. 
 
