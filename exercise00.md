@@ -2,7 +2,7 @@
 
 Before beginning to understand concepts fundamental to crypto custody, it is important to know a little bit about the motivation behind blockchain, its history, and its implications.
 
-> *Task:* Watch this [TEDx Talk](https://youtu.be/kvyKyRZJYh0) given by Ali Raza Dar and read this [excerpt](./../extras/A%20Brief%20History%20of%20Blockchain.md) from an article written by Lewis Popovski and George Soussou.
+> *Task:* Watch this [TEDx Talk](https://youtu.be/kvyKyRZJYh0) given by Ali Raza Dar and read this [excerpt](./extras/A%20Brief%20History%20of%20Blockchain.md) from an article written by Lewis Popovski and George Soussou.
 
 ## Wallet Basics
 
@@ -14,7 +14,7 @@ Consider you wanted to make a purchase with a debit card. You would open your wa
 
 This may be confusing right now, but the important thing to remember at this stage is that crypto wallets do not actually hold cryptocurrency; they hold keys that let you spend cryptocurrency.
 
-> *Task:* Read [Chapter 1](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc) from *Mastering Bitcoin*. Then, set up a testnet bitcoin wallet on your phone by following these [steps](../extras/Setting%20Up%20Testnet%20Bitcoin%20Wallet%20With%20BitPay.md).
+> *Task:* Read [Chapter 1](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch01.asciidoc) from *Mastering Bitcoin*. Then, set up a testnet bitcoin wallet on your phone by following these [steps](./extras/Setting%20Up%20Testnet%20Bitcoin%20Wallet%20With%20BitPay.md).
 
 ### Receiving crypto
 
